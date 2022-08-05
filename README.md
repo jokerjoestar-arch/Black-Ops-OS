@@ -5,7 +5,7 @@ This is an Alpha program, i will update it.
 
 Instructions:
 
-1: Install it whit git clone.
+1: Install it whit git clone https://github.com/jokerjoestar-arch/Black-Ops-OS.git.
 
 2: Open it (in Linux "./BOOS.out", in Windows just execute the "Black Ops OS" file).
 
@@ -21,7 +21,7 @@ Este es un programa Alpha, lo actualizaré.
 
 Instrucciones:
 
-1: Instálalo con git clone.
+1: Instálalo con git clone https://github.com/jokerjoestar-arch/Black-Ops-OS.git.
 
 2: Ábralo (en Linux "./BOOS.out", en Windows simplemente ejecute el archivo "Black Ops OS").
 
