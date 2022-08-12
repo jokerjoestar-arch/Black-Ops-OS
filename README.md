@@ -7,7 +7,7 @@ Instructions:
 
 1: Install it whit git clone https://github.com/jokerjoestar-arch/Black-Ops-OS.git.
 
-2: Open it (in Linux "./BOOS.out", in Windows just execute the "Black Ops OS" file).
+2: Compile it whit gcc on Linux.
 
 3: All the commands need be writed in CAPITAL LETTER.
 
@@ -23,7 +23,7 @@ Instrucciones:
 
 1: Instálalo con git clone https://github.com/jokerjoestar-arch/Black-Ops-OS.git.
 
-2: Ábralo (en Linux "./BOOS.out", en Windows simplemente ejecute el archivo "Black Ops OS").
+2: Compilelo con gcc en Linux.
 
 3: Todos los comandos deben escribirse en MAYÚSCULAS.
 
